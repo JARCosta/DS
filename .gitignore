@@ -1,0 +1,6 @@
+Eval2/1_MVI/class_pos_covid_frequent_fill.csv
+Eval2/2_Outliers/class_pos_covid_frequent_fill_truncate_outliers.csv
+Eval2/3_Scaling/class_pos_covid_frequent_fill_scaled_minmax.csv
+Eval2/3_Scaling/class_pos_covid_frequent_fill_scaled_zscore.csv
+Eval2/4_Balancing/class_pos_covid_frequent_fill_over.csv
+Eval2/4_Balancing/class_pos_covid_frequent_fill_smote.csv

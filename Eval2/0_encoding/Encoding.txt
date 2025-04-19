@@ -1,0 +1,10 @@
+IDs                     Other
+Binary                  Linear Encoding
+State                   Dummification
+GeneralHealth           Linear Encoding
+LastCheckUpTime         Linear Encoding
+SmokerStatus            Taxonomy
+ECigaretteUsage         Taxonomy
+RaceEthnicityCategory	Dummification
+AgeCategory				Linear Encoding
+TetanusLast10Tdap       Taxonomy
